@@ -1,0 +1,21 @@
+# Gradle / Android Studio
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Hasil binaan
+*.apk
+*.aab
+*.apks
+*.idsig
+
+# Rahsia - JANGAN commit
+keystore.properties
+*.jks
+*.keystore
+*.pfx
